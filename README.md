@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 -consolidated some of the redundant CSS 
 -reorganized css to better match sections in the style sheet
 
-###Links to pages
+##Links to pages
 
 Github Repository- https://github.com/Hanstyl/horiseon-optimization
 
