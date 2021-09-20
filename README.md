@@ -28,7 +28,10 @@ THEN I find a concise, descriptive title
 -consolidated some of the redundant CSS 
 -reorganized css to better match sections in the style sheet
 
-###Links to pages
+Links to pages
+
 Github Repository- https://github.com/Hanstyl/horiseon-optimization
+
 Github site Deployment- https://hanstyl.github.io/horiseon-optimization/
 
+![horiseon-refactor](https://user-images.githubusercontent.com/79775889/133975094-f1c9a225-078c-49ad-9043-d0eee27c0281.png)
